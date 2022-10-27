@@ -1,3 +1,3 @@
-# Starphish
+# YoutubeToPotPlayer
 
 Chrome Extension Project
